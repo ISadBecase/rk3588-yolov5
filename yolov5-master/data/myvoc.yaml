@@ -1,0 +1,8 @@
+train: D:\work_station\python6\yolov5-master\VOCData\dataSet_path\train.txt
+val: D:\work_station\python6\yolov5-master\VOCData\dataSet_path\val.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ["kuang"]

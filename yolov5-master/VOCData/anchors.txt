@@ -1,0 +1,3 @@
+Best Accuracy = 89.81%
+Best Anchors = [[np.float64(167.0), np.float64(156.67)], [np.float64(190.0), np.float64(202.67)], [np.float64(298.0), np.float64(216.0)], [np.float64(331.0), np.float64(293.33)], [np.float64(361.0), np.float64(257.33)], [np.float64(409.0), np.float64(313.33)], [np.float64(430.0), np.float64(424.0)], [np.float64(478.0), np.float64(350.67)], [np.float64(540.0), np.float64(440.0)]]
+Best Ratios = [0.94, 1.01, 1.07, 1.13, 1.23, 1.31, 1.36, 1.38, 1.4]
